@@ -1,0 +1,11 @@
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\bin\Debug\LaptopRepairTracker.Core.dll
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\bin\Debug\LaptopRepairTracker.Core.pdb
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.csproj.Fody.CopyLocal.cache
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.csproj.CopyComplete
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.dll
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.pdb
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\bin\Debug\LaptopRepairTracker.Core.dll.config
+C:\Users\Blunt\source\repos\LaptopRepairTracker\LaptopRepairTracker.Core\obj\Debug\LaptopRepairTracker.Core.csprojAssemblyReference.cache
